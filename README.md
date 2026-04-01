@@ -118,7 +118,7 @@ This will preprocess the data, train both models, print evaluation metrics, and 
 
 **Ayesha Siddiqua**
 B.Sc. IT Student | Aspiring AI Engineer
-🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ayeshasiddiquaabdulkalam71ab7a391/)) 
+🔗 [LinkedIn](https://www.linkedin.com/in/ayeshasiddiquaabdulkalam71ab7a391/) 
 
 ---
 
