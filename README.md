@@ -116,9 +116,9 @@ This will preprocess the data, train both models, print evaluation metrics, and 
 
 ## 👤 Author
 
-**Aladdin**
+**Ayesha Siddiqua**
 B.Sc. IT Student | Aspiring AI Engineer
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ayeshasiddiquaabdulkalam71ab7a391/)) 
 
 ---
 
